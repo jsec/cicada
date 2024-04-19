@@ -1,8 +1,11 @@
 # Cicada
 
+![code coverage badge](https://github.com/jsec/cicada/actions/workflows/ci.yml/badge.svg)
+
+
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
-## Local Development
+## Local Dev
 
 Make sure you're on Go version 1.20+.
 
